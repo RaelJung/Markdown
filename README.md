@@ -15,7 +15,7 @@
 - - -
 
 ## 개요
-![icon](https://user-images.githubusercontent.com/64372881/125543537-35e21ddb-9449-47a6-b221-3c719e78ae75.png)    
+<img src="https://user-images.githubusercontent.com/64372881/125543537-35e21ddb-9449-47a6-b221-3c719e78ae75.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Eyelax"></img>
 구글 확장 프로그램 개발을 통해 웹의 불편한 요소들을 변경하여
 1. 노인
 2. 저시력 장애인
